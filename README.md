@@ -39,5 +39,5 @@ With a strong foundation in JavaScript and TypeScript, I aim to bridge design an
 - 🌱 Currently exploring animation and motion design to enrich frontend interaction
 - ✨ I enjoy crafting clean UI, reusable components, and meaningful user flows
 - 📚 Always learning: currently reading about accessibility & performance optimization
-- 🧠 Tools I love: Figma, Notion, Postman, Slack
+- 🧠 Tools I love: Figma, Notion, Slack
 
